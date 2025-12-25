@@ -1,0 +1,15 @@
+# Ignorar archivos de sistema y entornos virtuales
+__pycache__/
+*.pyc
+.env
+.venv
+env/
+venv/
+.DS_Store
+
+# Ignorar base de datos local (El JSON ya es el exportado)
+*.db
+neo4j_dump/
+
+# Mantener el JSON frozen (Es vital), pero ignorar otros temporales
+*.tmp

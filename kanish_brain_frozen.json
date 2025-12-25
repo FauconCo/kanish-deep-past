@@ -1,0 +1,25 @@
+{
+  "entities": {
+    "puzur-ashur": [
+      "son of Imdi-ilum"
+    ],
+    "enlil-bani": [
+      "unknown lineage"
+    ],
+    "imdi-ilum": [
+      "unknown lineage"
+    ],
+    "ashur-idi": [
+      "unknown lineage"
+    ]
+  },
+  "commodities": {
+    "kaspum": "silver",
+    "hurasu": "gold",
+    "annakum": "tin",
+    "subatu": "textiles",
+    "manum": "mina",
+    "siqlum": "shekel"
+  },
+  "relations": []
+}
